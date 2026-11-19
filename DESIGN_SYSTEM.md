@@ -15,6 +15,12 @@ Approved creative direction: **Shomari IA**.
 
 **Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
 
+## Typography
+
+**Georgia** is the primary font family for authored prose and narrative headings across the research portfolio, presentation decks, journal, posters, and exhibit materials. Keep text legible with generous spacing and coherent hierarchy. Use specialist mathematical fonts for equations and monospaced fonts for code, file paths, and reproducibility records.
+
+GitHub's profile README is rendered using GitHub's own site fonts. A repository Markdown file cannot impose Georgia globally on visitors. The Georgia standard applies where document or webpage styling is controllable; preserve accessible, selectable text rather than converting all paragraphs to images.
+
 ## Signature design language
 
 - Soft silver metallic gradients, brushed titanium effects, restrained champagne-gold hairlines.
