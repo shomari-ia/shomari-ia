@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Shomari J. — Computational Science Meets Creative Intelligence" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Shomari IA — Computational Science Meets Creative Intelligence" width="100%" />
 
 ### Scientific Rigor. Computational Intelligence. Creative Innovation.
 
@@ -15,11 +15,11 @@
 
 ## Computational Science Meets Creative Intelligence
 
-I am **Shomari A. Johnson**, a PhD candidate at **Jackson State University** working at the intersection of computational biology, bioinformatics, quantum chemistry, and scientific computing.
+I am **Shomari A. Johnson**, a PhD candidate at **Jackson State University** working at the intersection of computational biology, bioinformatics, quantum mechanics, and scientific computing.
 
 My research brings together **molecular modeling, reproducible computation, and data-enabled approaches** to examine complex problems in nanomaterials and drug delivery. I also explore how intelligent systems, visual storytelling, and thoughtful design can make technically demanding research clearer and more accessible.
 
-I believe rigorous science and creativity should reinforce each other: **the research must be defensible, and the presentation should make its logic visible.**
+
 
 ## Featured Research · GQD Dissertation
 
@@ -29,7 +29,7 @@ My dissertation investigates a carboxyl-functionalized graphene quantum dot as a
 
 <img src="./assets/research-architecture.svg" alt="Conceptual three-stage GQD workflow: current DFT phase; planned pH modeling and biological modeling phases" width="100%" />
 
-The **GQD repository** is the authoritative scientific record. It documents calculation inputs, computational workflows, current scientific status, acceptance criteria, and evidence provenance. This personal profile is a *portfolio*, not a replacement for those records.
+The **GQD Repository** is the authoritative scientific record. It documents calculation inputs, computational workflows, current scientific status, acceptance criteria, and evidence provenance. This personal profile is a *portfolio*, not a replacement for those records.
 
 **Explore:**
 
