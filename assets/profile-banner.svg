@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480" role="img" aria-labelledby="t d">
+<title id="t">Shomari A. Johnson - Computational Science Meets Creative Intelligence</title>
+<desc id="d">Graphite banner with original gold and aquamarine abstract hexagonal art. Conceptual branding.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111D"/><stop offset="1" stop-color="#172736"/></linearGradient><radialGradient id="g"><stop stop-color="#55DDE0" stop-opacity=".24"/><stop offset="1" stop-color="#55DDE0" stop-opacity="0"/></radialGradient><linearGradient id="r"><stop stop-color="#D6B374"/><stop offset="1" stop-color="#55DDE0"/></linearGradient></defs>
+<rect width="1600" height="480" fill="url(#bg)"/><circle cx="1260" cy="220" r="330" fill="url(#g)"/>
+<g opacity=".11" stroke="#55DDE0" fill="none"><path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600"/><path d="M80 0V480M160 0V480M240 0V480M320 0V480M400 0V480M480 0V480M560 0V480M640 0V480M720 0V480M800 0V480M880 0V480M960 0V480M1040 0V480M1120 0V480M1200 0V480M1280 0V480M1360 0V480M1440 0V480M1520 0V480"/></g>
+<path d="M75 78h120" stroke="#D6B374" stroke-width="5"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="75" y="142" fill="#55DDE0" font-size="24" letter-spacing="5">RESEARCHER / CREATOR / COMPUTATIONAL SCIENTIST</text><text x="70" y="252" fill="#F3F5F7" font-size="83" font-weight="700">SHOMARI A.</text><text x="70" y="344" fill="#D6B374" font-size="83" font-weight="700">JOHNSON</text><rect x="75" y="373" width="744" height="3" fill="url(#r)"/><text x="75" y="420" fill="#BBCAD4" font-size="24" letter-spacing="2.2">COMPUTATIONAL SCIENCE  ×  CREATIVE INTELLIGENCE</text></g>
+<g stroke="#D6B374" stroke-width="4" fill="none" stroke-opacity=".66"><path d="M1130 60l89 51v102l-89 52-89-52V111z"/><path d="M1308 60l89 51v102l-89 52-89-52V111z"/><path d="M1219 213l89 52v102l-89 51-89-51V265z"/><path d="M1397 213l89 52v102l-89 51-89-51V265z"/></g>
+<g stroke="#55DDE0" stroke-width="5" fill="none"><path d="M950 163l89 51v102l-89 52-89-52V214z"/><path d="M1040 316l89 52v102l-89 51-89-51V368z"/></g>
+<g fill="#55DDE0"><circle cx="1130" cy="60" r="9"/><circle cx="1219" cy="213" r="9"/><circle cx="1397" cy="213" r="9"/><circle cx="950" cy="163" r="9"/></g>
+</svg>
