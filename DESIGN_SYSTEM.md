@@ -1,23 +1,33 @@
-# Researcher profile identity — Hybrid Scientific Innovation
+# Researcher Visual Identity — Gray Scientific Futurism v2.0
 
-| Element | Hex |
-|---|---|
-| Deep graphite | `#08111D` |
-| Slate graphite | `#172736` |
-| Off-white | `#F3F5F7` |
-| Metallic gold | `#D6B374` |
-| Aquamarine | `#55DDE0` |
-| Cool gray | `#BBCAD4` |
+Approved creative direction: **Shomari IA**.
 
-## Identity architecture
+## Palette
 
-- **Researcher profile:** Shomari A. Johnson — broad computational science and creativity portfolio.
-- **Project repository:** GQD dissertation — authoritative calculations, reproducibility, scientific status, and validation.
-- **AXIOM:** communication mascot; not a scientific validation system.
-- **Shared visual language:** graphene-inspired hexagonal geometry, graphite/silver/gold/aquamarine palette, restrained technical typography.
+| Visual role | Color | Hex |
+|---|---|---|
+| Primary charcoal | Deep graphite | `#181B1D` |
+| Secondary | Warm charcoal gray | `#27292B` |
+| Primary typography | Metallic silver | `#E4E6E6` |
+| Supporting typography | Cool neutral gray | `#B9BEC0` |
+| Accent (sparing) | Champagne gold | `#D8C194` |
+| Highlight | Silver-white | `#FAFAF8` |
 
-## Rules
-- Do not depict conceptual molecular art as validated geometry.
-- Label future scientific phases as planned until the canonical scientific record supports a change.
-- Avoid invented repository statistics, awards, findings, affiliations, software products, or collaborations.
-- Keep profile material a professional introduction; cite the GQD repository for research status and claims.
+**Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
+
+## Signature design language
+
+- Soft silver metallic gradients, brushed titanium effects, restrained champagne-gold hairlines.
+- Smooth waveforms, curved mathematical grids, signal traces, subtle axes, continuous surfaces, open negative space.
+- No decorative honeycombs, hexagon carpets, or octagons.
+- A graphene hexagon remains acceptable **only when needed to depict actual graphene chemistry**, where it must follow scientifically appropriate geometry.
+- Personal visual brand displayed as **Shomari IA**. Formal name remains in academic citations, authorship, and official dissertation materials.
+
+## Creative vs scientific material
+
+- Brand illustration is **conceptual**. Do not present it as Gaussian-derived structures, trajectories, molecular geometry, or proof of validation.
+- The GQD research repository remains the scientific source of truth. Personal profile artwork and AXIOM branding do not supersede acceptance gates or computational evidence.
+
+## Application
+
+Use this design direction for the personal GitHub profile, GQD repo branding, future research journal, posters, presentations, and Milestone 03 scientific iconography.
