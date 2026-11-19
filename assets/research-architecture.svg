@@ -1,10 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 340" role="img" aria-labelledby="t d">
-<title id="t">GQD multiscale research architecture</title><desc id="d">Conceptual three-phase workflow: current quantum modeling, planned pH response, and planned biological modeling.</desc>
-<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#08111D"/><stop offset="1" stop-color="#172736"/></linearGradient></defs><rect width="1400" height="340" rx="16" fill="url(#b)"/>
-<g font-family="Arial,Helvetica,sans-serif"><text x="46" y="60" fill="#55DDE0" font-size="23" letter-spacing="4">GQD · MULTISCALE RESEARCH ARCHITECTURE</text>
-<rect x="46" y="92" width="400" height="166" rx="14" fill="#172635" stroke="#55DDE0" stroke-width="2"/><text x="72" y="132" fill="#D6B374" font-size="21" letter-spacing="2">01 / CURRENT</text><text x="72" y="184" fill="#F3F5F7" font-size="32" font-weight="700">Quantum modeling</text><text x="72" y="224" fill="#BBCAD4" font-size="21">DFT · GQD–drug adsorption</text>
-<path d="M462 177h42m-13-10l13 10-13 10" fill="none" stroke="#D6B374" stroke-width="4"/>
-<rect x="524" y="92" width="385" height="166" rx="14" fill="#172635" stroke="#728696" stroke-width="2"/><text x="550" y="132" fill="#D6B374" font-size="21" letter-spacing="2">02 / PLANNED</text><text x="550" y="184" fill="#F3F5F7" font-size="32" font-weight="700">pH response</text><text x="550" y="224" fill="#BBCAD4" font-size="21">Protonation · release modeling</text>
-<path d="M922 177h42m-13-10l13 10-13 10" fill="none" stroke="#D6B374" stroke-width="4"/>
-<rect x="983" y="92" width="369" height="166" rx="14" fill="#172635" stroke="#728696" stroke-width="2"/><text x="1008" y="132" fill="#D6B374" font-size="21" letter-spacing="2">03 / PLANNED</text><text x="1008" y="184" fill="#F3F5F7" font-size="30" font-weight="700">Biological modeling</text><text x="1008" y="224" fill="#BBCAD4" font-size="21">Docking · molecular dynamics</text>
-<text x="47" y="311" fill="#BBCAD4" font-size="19">Conceptual overview only. Scientific conclusions and status are governed by the dissertation repository.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 342" width="1400" height="342" role="img" aria-labelledby="title desc">
+<title id="title">GQD research pathway — conceptual overview</title><desc id="desc">Three clearly distinguished research stages, current DFT modeling followed by planned pH response and molecular docking and dynamics. Charcoal and silver scientific visualization with restrained champagne gold.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#27292B"/><stop offset="1" stop-color="#111315"/></linearGradient><linearGradient id="rule"><stop stop-color="#7B7E81"/><stop offset=".5" stop-color="#E5E7E7"/><stop offset="1" stop-color="#7B7E81"/></linearGradient></defs>
+<rect width="1400" height="342" rx="13" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="45" y="52" font-size="23" fill="#E2E4E5" letter-spacing="3">GQD · MULTISCALE RESEARCH PATHWAY</text>
+<path d="M47 68H1355" stroke="#C0A474" stroke-opacity=".6"/>
+<g transform="translate(45 90)">
+<rect width="401" height="171" rx="10" fill="#292C2E" stroke="#DEDFDF" stroke-width="2"/>
+<rect x="0" y="0" width="401" height="5" fill="#D8C194"/>
+<text x="25" y="40" font-size="18" fill="#D8C194" letter-spacing="3">01 / CURRENT WORK</text>
+<text x="25" y="96" font-size="32" font-weight="bold" fill="#F2F3F3">DFT &amp; adsorption</text>
+<text x="25" y="134" font-size="21" fill="#C6C8CA">GQD–drug interaction modeling</text>
+</g>
+<path d="M462 176h46m-14-11l14 11-14 11" fill="none" stroke="#C7CACC" stroke-width="3.5"/>
+<g transform="translate(527 90)">
+<rect width="381" height="171" rx="10" fill="#252729" stroke="#797C80" stroke-width="1.5"/>
+<text x="25" y="40" font-size="18" fill="#C9CBCB" letter-spacing="3">02 / PLANNED</text>
+<text x="25" y="96" font-size="32" font-weight="bold" fill="#F2F3F3">pH response</text>
+<text x="25" y="134" font-size="21" fill="#C6C8CA">Protonation &amp; release analysis</text>
+</g>
+<path d="M925 176h46m-14-11l14 11-14 11" fill="none" stroke="#C7CACC" stroke-width="3.5"/>
+<g transform="translate(987 90)">
+<rect width="365" height="171" rx="10" fill="#252729" stroke="#797C80" stroke-width="1.5"/>
+<text x="25" y="40" font-size="18" fill="#C9CBCB" letter-spacing="3">03 / PLANNED</text>
+<text x="25" y="96" font-size="31" font-weight="bold" fill="#F2F3F3">Docking &amp; MD</text>
+<text x="25" y="134" font-size="21" fill="#C6C8CA">Protein interaction modeling</text>
+</g>
+<text x="47" y="315" font-size="19" fill="#B9BEC0">Conceptual roadmap · Refer to the GQD scientific-status and evidence registers for validated results.</text>
+</g></svg>
