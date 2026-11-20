@@ -1,4 +1,4 @@
-# Researcher Visual Identity — Gray Scientific Futurism v2.0
+# Researcher Visual Identity — Gray Scientific Futurism v2.2 · Luminous Coral-Peach
 
 Approved creative direction: **Shomari IA**.
 
@@ -10,10 +10,10 @@ Approved creative direction: **Shomari IA**.
 | Secondary | Warm charcoal gray | `#27292B` |
 | Primary typography | Metallic silver | `#E4E6E6` |
 | Supporting typography | Cool neutral gray | `#B9BEC0` |
-| Accent (sparing) | Champagne gold | `#D8C194` |
+| Accent (sparing) | Luminous coral-peach | `#FF8975` |
 | Highlight | Silver-white | `#FAFAF8` |
 
-**Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
+**Accent update:** vivid coral-peach `#FF8975` adds a subtle futuristic warmth against dark gray; use `#A74442` for readable coral labels on light backgrounds.\n\n**Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
 
 ## Typography
 
@@ -23,7 +23,7 @@ GitHub's profile README is rendered using GitHub's own site fonts. A repository 
 
 ## Signature design language
 
-- Soft silver metallic gradients, brushed titanium effects, restrained champagne-gold hairlines.
+- Soft silver metallic gradients, brushed titanium effects, restrained coral-peach hairlines.
 - Smooth waveforms, curved mathematical grids, signal traces, subtle axes, continuous surfaces, open negative space.
 - No decorative honeycombs, hexagon carpets, or octagons.
 - A graphene hexagon remains acceptable **only when needed to depict actual graphene chemistry**, where it must follow scientifically appropriate geometry.
