@@ -13,7 +13,9 @@ Approved creative direction: **Shomari IA**.
 | Accent (sparing) | Luminous coral-peach | `#FF8975` |
 | Highlight | Silver-white | `#FAFAF8` |
 
-**Accent update:** vivid coral-peach `#FF8975` adds a subtle futuristic warmth against dark gray; use `#4A4D50` for readable graphite labels on light backgrounds.\n\n**Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
+**Accent update:** vivid coral-peach `#FF8975` adds a subtle futuristic warmth against dark gray; use `#4A4D50` for readable graphite labels on light backgrounds.
+
+**Do not use bright blue, cyan, aquamarine, or green as a default branding accent.** Scientific plots may use meaningful scientific colors when essential to the data, with an accessible legend.
 
 ## Typography
 
@@ -40,4 +42,4 @@ Use this design direction for the personal GitHub profile, GQD repo branding, fu
 
 ## Restricted accent tones
 
-Maroon and dark-red tones are excluded from the visual identity. Do not reintroduce `#A74442`. Use neutral dark graphite (`#4A4D50`) for small text on light surfaces and luminous coral-peach (`#FF8975`) only as a bright accent against dark graphite backgrounds.
+Maroon and dark-red tones are excluded from the visual identity. Do not reintroduce maroon or dark-red accents. Use neutral dark graphite (`#4A4D50`) for small text on light surfaces and luminous coral-peach (`#FF8975`) only as a bright accent against dark graphite backgrounds.
